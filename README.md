@@ -6,4 +6,4 @@ Key Features:
 2) Generates edge-case scenarios using Generative Adversarial Networks (GANs) generative model
 3) Provides labeled data for tasks like object detection, semantic segmentation and lane detection
    
-![image](https://github.com/user-attachments/assets/37bac91d-9a46-4e70-8092-4d9d5937b790)
+
