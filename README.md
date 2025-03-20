@@ -1,6 +1,7 @@
 # Synthetic-Data-Generation-for-Autonomous-Vehicle-Simulation
 This project focuses on creating a synthetic data pipeline for autonomous vehicle simulation using CARLA simulator, GANs and computer vision techniques.
 Objective: Building a pipeline to generate synthetic datasets for training and testing autonomous driving systems
+
 Key Features:
 1) Allows simulating realistic driving environments by integrating CARLA open-source simulator
 2) Generates edge-case scenarios using Generative Adversarial Networks (GANs) generative model
